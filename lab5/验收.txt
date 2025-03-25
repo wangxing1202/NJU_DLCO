@@ -1,0 +1,44 @@
+0000 0004
+
+?
+0x0
+
+DEAD C000
+
+DEAD BEEF
+0001bd5b
+
+0000DEAD
+
+ffffbd5b
+
+df778000
+beef0000
+
+beefdead
+00000010
+
+0000ef00
+0000beef
+beefbeef
+
+deadbeef
+
+ffffffef
+
+000000ef
+
+ffffbeef
+
+0000beef
+
+beefbeef
+
+0000dead
+
+ffff0000
+beef0000
+beefdead
+00000104
+00000104
+
